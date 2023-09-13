@@ -37,10 +37,12 @@ Additionally, we will focus on producing high-quality documentation and testing 
 compiler is reliable and easy to use.
 
 ## Requirements
+
 Hardware Requirements:
 ● 64 BIT MACHINE, 800 MHz PROCESSOR 1.66GHz
 ● WINDOWS/LINUX OS
 ● 128 MB RAM
+
 Software Requirements:
 ● LEX TOOL
 ● YACC PARSER TOOL
